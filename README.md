@@ -10,7 +10,7 @@ This project provides a node script that encrypts your mailing address with a pu
 
 ## Instructions
 
-Note: You must have Node 10 installed locally.
+Note: You must have Node 10 installed locally. 
 
 1. fork this repo
 1. `git clone` your fork url
